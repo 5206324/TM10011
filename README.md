@@ -6,3 +6,4 @@ Poging 2; nieuwe git gecloned
 
 
 Adding lines for the branch
+main strand adding lines
