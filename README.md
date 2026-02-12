@@ -3,3 +3,5 @@ Repository TM10011
 
 
 Poging 2; nieuwe git gecloned
+
+main strand adding lines
